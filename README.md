@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/robisys/ws-rs](https://travis-ci.org/robisys/ws-rs)
+
 # WS-RS
 
 Lightweight, event-driven WebSockets for [Rust](http://www.rust-lang.org).

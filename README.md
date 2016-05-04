@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/robisys/ws-rs](https://travis-ci.org/robisys/ws-rs)
+[![Build Status](https://travis-ci.org/robisys/ws-rs)](https://travis-ci.org/robisys/ws-rs)
 
 # WS-RS
 
